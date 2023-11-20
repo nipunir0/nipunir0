@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Android**
 
-- 📫 How to reach me **nipunirandunu20@gmail.com**
+- 📫 How to reach me **nipunie.randunu@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
