@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **nipunie.randunu@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipunir0&show_icons=true&locale=en&layout=compact" alt="nipunir0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipunir0&show_icons=true&locale=en" alt="nipunir0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunir0&" alt="nipunir0" /></p>
